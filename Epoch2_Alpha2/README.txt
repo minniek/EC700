@@ -1,11 +1,9 @@
 Instructions to Run "filter_apks.py"
 
 NOTE: the script executes the FlowDroid command on Unix machine (Ubuntu 14.04). If you want to run it on a Windows machine,
-you need to change colons to semicolons on the following on line 43:
+you need to change the directory/file syntax throughout the script and the colons to semicolons on the following on line 43:
 
 jars = "soot-trunk.jar:soot-infoflow.jar:soot-infoflow-android.jar:slf4j-api-1.7.5.jar:slf4j-simple-1.7.5.jar:axml-2.0.jar"
-
-
 
 1) Need to run "filter_apks.py" in the same directory that stores the following required FlowDroid jars and configuration files:
     axml-2.0.jar

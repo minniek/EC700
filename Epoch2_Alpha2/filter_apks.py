@@ -62,7 +62,7 @@ sinksOutgoing = ["java.net.URLConnection: java.io.OutputStream getOutputStream()
 						"org.apache.http.impl.client.DefaultHttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest)",
 						"org.apache.http.client.HttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest)"]
 #########################################################################################################################################################
-# Execute if optional argument is not entered
+# Start here...
 if (len(sys.argv) == 3):
 	apkDir = sys.argv[1]
 	#print("apkDir: ", apkDir) # DEBUGGING

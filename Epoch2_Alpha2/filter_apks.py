@@ -61,8 +61,6 @@ sinksOutgoing = ["java.net.URLConnection: java.io.OutputStream getOutputStream()
 						"java.io.FileOutputStream: void write(int)",
 						"org.apache.http.impl.client.DefaultHttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest)",
 						"org.apache.http.client.HttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest)"]
-
-
 #########################################################################################################################################################
 # Execute if optional argument is not entered
 if (len(sys.argv) == 3):

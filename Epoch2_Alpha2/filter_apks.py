@@ -19,7 +19,7 @@
 # All files are saved in the directory = "/tmp/ec700_alpha2/filter_apks_files"
 #
 # If FlowDroid execution stalls, press Ctrl + C to continue script to analyze the next available apk
-#
+# Used Java version "1.7.0_75" to execute FlowDroid command
 # Run script in the directory where the the following FlowDroid jars and config files are located:
 #   axml-2.0.jar
 #   slf4j-api-1.7.5.jar

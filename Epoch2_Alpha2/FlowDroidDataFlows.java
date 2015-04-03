@@ -34,8 +34,7 @@ public class FlowDroidDataFlows {
 
                 for(File file : apkArray) {
                     try {
-                        //PrintWriter outputFile = new PrintWriter(new BufferedWriter(new FileWriter("FlowDroidDataFlows_Output.txt", true)));
-                        String apkPath = args[0] + file.getName();
+                        String apkPath = args[0] + "/" + file.getName();
                         String androidPlatformsPath = args[1];
                         System.out.println("Running FlowDroid on the following apk: " + apkPath);
                         System.out.println("Using the following Android platforms path: " + androidPlatformsPath); // Ex. /home/minniek/android-sdks/platforms
@@ -91,22 +90,17 @@ public class FlowDroidDataFlows {
         List<Flow> flowList = new ArrayList<Flow>();
         String foundPathIndicator = "Found a flow to sink";
         String endIndicator = "Analysis has run";
-        //String noResultsIndicator = "No results found";
-        //String appPackageName = getApplicationContext().getPackageName();
 
         // Run FlowDroid and create Flow objects from data path result
         try {
             Process p = Runtime.getRuntime().exec(runFlowDroidCmd);
             System.out.println("Executing FlowDroid command...");
             BufferedReader inputReader = new BufferedReader(new InputStreamReader(p.getInputStream()));
-            BufferedReader errorReader = new BufferedReader(new InputStreamReader(p.getErrorStream()));
 
-            for (String nextLine, nextErrorLine, currentLine = inputReader.readLine(), errorLine = errorReader.readLine(); currentLine != null; currentLine = nextLine, errorLine = nextErrorLine) {
+            for (String nextLine, currentLine = inputReader.readLine(); currentLine != null; currentLine = nextLine) {
                 System.out.println("From inputReader: " + currentLine);
-                //System.out.println("From errorReader: " + errorLine);
 
                 nextLine = inputReader.readLine(); // Get next line
-                nextErrorLine = errorReader.readLine(); // Get next error line
 
                 if (currentLine.contains(foundPathIndicator)) {
                     System.out.println("Sink: " + currentLine);
@@ -122,46 +116,57 @@ public class FlowDroidDataFlows {
                     if (m1.find()) {
                         temp1 = m1.group(1);
                     }
-                    String temp2 = temp1.replaceAll(":.*$", "");
-                    System.out.println(temp2);
-                    String[] temp2Array = temp2.split("\\.");
-                    //System.out.println(Arrays.toString(temp2Array));
-                    f.setSinkApiName(temp2Array[0] + "." + temp2Array[1]);
-
-                    // Set sinkClassName
-                    f.setSinkClassName(temp2Array[2]);
+                    System.out.println("temp1: " + temp1);
 
                     // Set sinkMethodName
-                    String[] temp3Array = temp1.split(":");
-                    f.setSinkMethodName(temp3Array[1].replaceFirst(" ", ""));
+                    String[] temp2Array = temp1.split("\\:");
+                    f.setSinkMethodName(temp2Array[1].replaceFirst(" ", ""));
+                    System.out.println("f's sink method name: " + f.getSinkMethodName());
+
+                    String s = temp1.replaceAll(":.*$", "");
+                    String[] temp3Array = s.split("\\.");
+                    System.out.println("temp3Array: " + Arrays.toString(temp3Array));
+                    int temp3ArrayLen = temp3Array.length;
+                    System.out.println("temp3ArrayLen: " + temp3ArrayLen);
+                    String sinkApiStr = "";
+                    f.setSinkClassName(temp3Array[temp3ArrayLen-1]);
+                    System.out.println("f's sink class name: " + f.getSinkClassName());
+                    for (int i = 0; i < temp3Array.length-1; i++){
+                        sinkApiStr += temp3Array[i] + ".";
+                    }
+                    f.setSinkApiName(sinkApiStr);
+                    System.out.println("f's sink API/package name: " + f.getSinkApiName());
 
                     // If the sink is "fromJson", then this is incoming data
                     if (f.getSinkMethodName().contains("fromJson")) {
                         f.setIsOutgoing(false);
                     }
+                    //System.out.println("f isOutgoing?: " + f.getIsOutgoing()); // Null pointer exception
 
                     // Parse nextLine to get the first source information
-                    Pattern p2 = Pattern.compile("<(.*?)>");
-                    Matcher m2 = p2.matcher(nextLine);
-                    String temp3 = "";
+                    //Pattern p2 = Pattern.compile("<(.*?)>");
+                    Matcher m2 = p1.matcher(nextLine);
+                    String temp2 = "";
                     if (m2.find()) {
-                        temp3 = m2.group(1);
+                        temp2 = m2.group(1);
                     }
-                    //System.out.println("temp2: " + temp2); Ex. com.google.gson.Gson: java.lang.String toJson(com.google.gson.JsonElement)
-                    String temp4 = temp3.replaceAll(":.*$", "");
-                    //System.out.println("temp4: " + temp4);
-                    String[] temp4Array = temp4.split("\\.");
-
-                    // Set sourceApiName
-                    f.setSourceApiName(temp4Array[0] + "." + temp4Array[1]);
-
-                    // Set sourceClassName
-                    f.setSourceClassName(temp4Array[2]);
 
                     // Set sourceMethodName
-                    String[] temp5Array = temp3.split(":");
-                    //System.out.println(Arrays.toString(temp5Array));
-                    f.setSourceMethodName(temp5Array[1].replaceFirst(" ", ""));
+                    String[] temp4Array = temp2.split("\\:");
+                    f.setSourceMethodName(temp4Array[1].replaceFirst(" ", ""));
+                    System.out.println("f's source method name: " + f.getSourceMethodName());
+
+                    String ss = temp2.replaceAll(":.*$", "");
+                    String[] temp5Array = ss.split("\\.");
+                    System.out.println("temp5Array: " + Arrays.toString(temp5Array));
+                    String sourceApiStr = "";
+                    f.setSourceClassName(temp5Array[temp5Array.length-1]);
+                    System.out.println("f's source class name: " + f.getSourceClassName());
+                    for (int i = 0; i < temp5Array.length-1; i++){
+                        sourceApiStr += temp5Array[i] + ".";
+                    }
+                    f.setSourceApiName(sourceApiStr);
+                    System.out.println("f's source API/package name: " + f.getSourceApiName());
 
                     // If the source is "toJson", then this is considered outgoing data
                     if (f.getSourceMethodName().contains("toJson")) {
@@ -187,28 +192,34 @@ public class FlowDroidDataFlows {
                             ff.setIsOutgoing(false);
                         }
 
-                        // Parse nextLine to set sourceApiName, sourceClassName, sourceMethodName
-                        Pattern p3 = Pattern.compile("<(.*?)>");
-                        Matcher m3 = p3.matcher(nextLine);
-                        String temp5 = "";
+                        // Parse nextLine to get the first source information
+                        //Pattern p2 = Pattern.compile("<(.*?)>");
+                        Matcher m3 = p1.matcher(nextLine);
+                        String temp3 = "";
                         if (m3.find()) {
-                            temp5 = m3.group(1);
+                            temp3 = m3.group(1);
                         }
-                        //System.out.println("temp2: " + temp2); Ex. com.google.gson.Gson: java.lang.String toJson(com.google.gson.JsonElement)
-                        String temp6 = temp5.replaceAll(":.*$", "");
-                        //System.out.println("temp4: " + temp4);
-                        String[] temp6Array = temp6.split("\\.");
-
-                        // Set sourceApiName
-                        ff.setSourceApiName(temp6Array[0] + "." + temp6Array[1]);
-
-                        // Set sourceClassName
-                        ff.setSourceClassName(temp6Array[2]);
 
                         // Set sourceMethodName
-                        String[] temp7Array = temp5.split(":");
-                        //System.out.println(Arrays.toString(temp5Array));
-                        ff.setSourceMethodName(temp7Array[1].replaceFirst(" ", ""));
+                        String[] temp6Array = temp3.split("\\:");
+                        System.out.println("temp6Array: " + Arrays.toString(temp6Array));
+                        ff.setSourceMethodName(temp6Array[1].replaceFirst(" ", ""));
+                        System.out.println("ff's source method name: " + ff.getSourceMethodName());
+
+                        String[] temp7Array = temp3.split("\\.");
+                        String sourceApiStr2 = "";
+                        ff.setSourceClassName(temp7Array[temp7Array.length-1]);
+                        System.out.println("ff's source class name: " + ff.getSourceClassName());
+                        for (int i = 0; i < temp7Array.length-1; i++){
+                            sourceApiStr2 += temp7Array[i] + ".";
+                        }
+                        ff.setSourceApiName(sourceApiStr2);
+                        System.out.println("ff's source API/package name: " + ff.getSourceApiName());
+
+                        // If the source is "toJson", then this is considered outgoing data
+                        if (ff.getSourceMethodName().contains("toJson")) {
+                            ff.setIsOutgoing(true);
+                        }    
 
                         // If the source is "toJson", then this is considered outgoing data
                         if (ff.getSourceMethodName().contains("toJson")) {
@@ -219,16 +230,16 @@ public class FlowDroidDataFlows {
 
                         nextLine = inputReader.readLine();
                     }
+                    int exitVal = p.waitFor();
                 }
             }
-            System.out.println("No an inputReader line or an errorReader line...");
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("Exception caught: " + e);
+            System.out.println("IOException caught: " + e);
             return flowList;
         } catch (Exception e) {
             e.printStackTrace();
-            System.out.println("Exception caught: " + e);
+            System.out.println("Throwable caught: " + e);
             return flowList;
         }
         System.out.println("Exiting getFlows()...");
@@ -238,12 +249,12 @@ public class FlowDroidDataFlows {
     public static void Usage(String error) {
         System.out.println("Error:\t" + error);
         System.out.println("Usage:\tjava RunFlowDroid <path to folder containing apks> <path to Android platforms directory>");
-        System.out.println("\tEx. of <path to apk>: /home/minniek/Desktop/apks/");
+        System.out.println("\tEx. of <path to apk>: /home/minniek/Desktop/apks");
         System.out.println("\tEx. of <path to Android platforms directory>: /home/minniek/android-sdks/platforms");
     }
 
     public class Flow {
-        boolean isOutgoing; // Set to true if toJson is the source, set to false if fromJson is the sink
+        Boolean isOutgoing = null; // Set to true if toJson is the source, set to false if fromJson is the sink
         String sourceApiName; // Ex. com.google.gson
         String sourceClassName; // Ex. Gson
         String sourceMethodName; // Ex. java.lang.String toJson(java.lang.Object)

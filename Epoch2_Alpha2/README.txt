@@ -18,7 +18,7 @@ jars = "soot-trunk.jar:soot-infoflow.jar:soot-infoflow-android.jar:slf4j-api-1.7
   
 2) Also need a directory that stores the Android SDK platforms for all API versions of apps that you want 
 to test. For our project, we used APIs 2-19, excluding 13 (issues with downloading from SDK mananger from Android Studio 
-and Eclipse)
+and Eclipse). I wanted to include all files in this repo but not enough space :(
 
 3) To run, execute the following command:
     python filter_apks.py <path to directory of apks to test> <path to Android SDK platforms>

@@ -3,7 +3,6 @@ import java.io.*;
 import java.util.regex.*;
 
 public class FlowDroidDataFlows {
-
     public static void main(String[] args) {
         // Check args 
         if (args.length <= 0) {
@@ -30,7 +29,6 @@ public class FlowDroidDataFlows {
                 }
                 File[] apkArray = new File[apkList.size()];
                 apkArray = apkList.toArray(apkArray);
-
 
                 for(File file : apkArray) {
                     try {

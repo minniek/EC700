@@ -161,13 +161,12 @@ if (len(sys.argv) == 3):
 					continue
 	else:
 		print "Finished processing apks.\nExiting."
-		exit();
+		exit()
 
 
 #########################################################################################################################################################
 # Execute if required command-line args are not entered
 else:
-	print "Error!\tNeeds at two arguments."
 	print "Usage (Python 2.7.3):\tpython filter_apks.py <path to directory of apks to test> <path to Android SDK platforms>"
 	print "Ex:\tpython filter_apks.py ~/Desktop/test_apks ~/Desktop/androidSdkPlatforms"
 	exit()

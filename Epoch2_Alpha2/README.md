@@ -21,4 +21,5 @@ to test. For our project, we used APIs 2-19, excluding 13 (issues with downloadi
 and Eclipse).
 
 3) To run, execute the following command:
-    python filter_apks.py \<path to directory of apks to test\> \<path to Android SDK platforms\>
+
+python filter_apks.py \<path to directory of apks to test\> \<path to Android SDK platforms\>

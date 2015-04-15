@@ -1,40 +1,40 @@
-#########################################################################################################################################################
-# Python 2.7.3
-#
-# Filters apks based on data flow content by using FlowDroid, an open-source static taint analysis tool for Android apps
-# About FlowDroid: http://sseblog.ec-spride.de/tools/flowdroid/
-# Installing FlowDroid: https://github.com/secure-software-engineering/soot-infoflow-android/wiki
-# 
-# Executes FlowDroid command and processes the output files to reduce false positives
-#
-# Generates the following text files:
-#	[1] filter_apks_output.txt ---> list of apks that contain flows with specified sources and sinks
-#	[2] filter_apks_output_noDataFlows.txt ---> list of apks that don't contain flows with specified sources and sinks
-#                                             or any data flows in general
-# 
-# Also produces the following additional files:
-#	[1] output of FlowDroid command results for each apk (ex. testApk.apk_flowDroidOutput.txt)
-#	[2] filter_apks_output_errorLog.txt ---> Error log
-#
-# All files are saved in the directory = "/tmp/ec700_alpha2/filter_apks_files"
-#
-# If FlowDroid execution stalls, press Ctrl + C to continue script to analyze the next available apk
-# Used Java version "1.7.0_75" to execute FlowDroid command
-# Run script in the directory where the the following FlowDroid jars and config files are located:
-#   axml-2.0.jar
-#   slf4j-api-1.7.5.jar
-#   slf4j-simple-1.7.5.jar
-#   soot-infoflow.jar
-#   soot-infoflow-android.jar
-#   soot-trunk.jar
-#   AndroidCallbacks.txt
-#   EasyTaintWrapperSource.txt
-#   SourcesAndSinks.txt (customized)
-#
-# Usage: python filter_apks.py <path to directory of apks to test> <path to Android SDK platforms>
-# Example: python filter_apks.py ~/Desktop/test_apks ~/Desktop/androidSdkPlatforms
-#
-#########################################################################################################################################################
+'''
+Python 2.7.3
+
+Filters apks based on data flow content by using FlowDroid, an open-source static taint analysis tool for Android apps
+About FlowDroid: http://sseblog.ec-spride.de/tools/flowdroid/
+Installing FlowDroid: https://github.com/secure-software-engineering/soot-infoflow-android/wiki
+ 
+Executes FlowDroid command and processes the output files to reduce false positives
+
+Generates the following text files:
+	[1] filter_apks_output.txt ---> list of apks that contain flows with specified sources and sinks
+	[2] filter_apks_output_noDataFlows.txt ---> list of apks that don't contain flows with specified sources and sinks
+                                             or any data flows in general
+ 
+Also produces the following additional files:
+	[1] output of FlowDroid command results for each apk (ex. testApk.apk_flowDroidOutput.txt)
+	[2] filter_apks_output_errorLog.txt ---> Error log
+
+All files are saved in the directory = "/tmp/ec700_alpha2/filter_apks_files"
+
+If FlowDroid execution stalls, press Ctrl + C to continue script to analyze the next available apk
+Used Java version "1.7.0_75" to execute FlowDroid command
+Run script in the directory where the the following FlowDroid jars and config files are located:
+	axml-2.0.jar
+	slf4j-api-1.7.5.jar
+	slf4j-simple-1.7.5.jar
+	soot-infoflow.jar
+	soot-infoflow-android.jar
+	soot-trunk.jar
+	AndroidCallbacks.txt
+	EasyTaintWrapperSource.txt
+	SourcesAndSinks.txt (customized)
+
+Usage: python filter_apks.py <path to directory of apks to test> <path to Android SDK platforms>
+Example: python filter_apks.py ~/Desktop/test_apks ~/Desktop/androidSdkPlatforms
+'''
+
 import os
 import sys
 import shutil
@@ -61,8 +61,7 @@ sinksOutgoing = ["java.net.URLConnection: java.io.OutputStream getOutputStream()
 						"java.io.FileOutputStream: void write(int)",
 						"org.apache.http.impl.client.DefaultHttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest)",
 						"org.apache.http.client.HttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest)"]
-#########################################################################################################################################################
-# Start here...
+
 if (len(sys.argv) == 3):
 	apkDir = sys.argv[1]
 	#print("apkDir: ", apkDir) # DEBUGGING
@@ -117,7 +116,6 @@ if (len(sys.argv) == 3):
 		# If the outputFile for the apk contains data flows, check to see if they are the ones we are interested in, based on the sources and sink
 		else:
 			with open(directory + "/" + file + "_" + "flowdroidOutput.txt", "r") as outputFile:
-				print "IN WITH"
 				# Set flag to indicate if a data flow that we wanted is found
 				isFound = ""
 
@@ -161,12 +159,8 @@ if (len(sys.argv) == 3):
 					continue
 	else:
 		print "Finished processing apks.\nExiting."
-		exit()
-
-
-#########################################################################################################################################################
-# Execute if required command-line args are not entered
+		exit(0)
 else:
 	print "Usage (Python 2.7.3):\tpython filter_apks.py <path to directory of apks to test> <path to Android SDK platforms>"
 	print "Ex:\tpython filter_apks.py ~/Desktop/test_apks ~/Desktop/androidSdkPlatforms"
-	exit()
+	exit(1)

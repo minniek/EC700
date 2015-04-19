@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1 style="text-align:center">EC700 Delta 3 Comments Page</h1>
+	<br>
+	<div class="container" style="text-align: center">
+		<form class="form-horizontal" role="form" method="post" action="/delta3/comments"> <!--{% csrf_token %}-->
+			<div class="form-group">
+				{{ form.comments }}
+				<br>
+				<br>
+				<button class="btn btn-default" type="submit">Submit Comment!</button>
+			<div>
+		</form> 
+	</div>
+{% endblock %}

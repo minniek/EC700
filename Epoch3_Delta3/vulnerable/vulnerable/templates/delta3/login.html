@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1 style="text-align:center">EC700 Delta 3 Login Page</h1>
+	<br>
+	<div class="container" style="text-align: center">
+		<form action="/delta3/login" method="post"> <!--{% csrf_token %}-->
+		Username:<br>
+		{{ form.username }}
+		<br>
+		<br>
+		Password:<br>
+		{{ form.password }}
+		<br>
+		<br>
+		<br>
+		<button class="btn btn-default" type="submit">Login!</button>
+		</form> 
+	</div>
+{% endblock %}

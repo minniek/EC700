@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1 style="text-align:center">EC700 Delta 3 Numbers Page</h1>
+	<br>
+	<div class="container" style="text-align: center">
+		<form action="/delta3/numbers" method="post"> <!--{% csrf_token %}-->
+		Enter first number:<br>
+		{{ form.num1 }}
+		<br>
+		<br>
+		Enter second number:<br>
+		{{ form.num2 }}
+		<br>
+		<br>
+		<br>
+		<button class="btn btn-default" type="submit">Submit!</button>
+		</form>
+	</div>
+{% endblock %}

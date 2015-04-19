@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1 style="text-align:center">EC700 Delta 3 Register Page</h1>
+	<br>
+	<div class="container" style="text-align: center">
+		<form action="/delta3/register" method="post"> <!--{% csrf_token %}-->
+		First name:<br>
+		{{ form.firstname }}
+		<br>
+		<br>
+		Last name:<br>
+		{{ form.lastname }}
+		<br>
+		<br>
+		Grad Year:<br>
+		{{ form.grad_year }}
+		<br>
+		<br>
+		<br>
+		<button class="btn btn-default" type="submit">Submit!</button>
+		</form> 
+	</div>
+{% endblock %}

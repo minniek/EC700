@@ -1,14 +1,20 @@
 import traceback, sys, time, re
 from secure_app.models import Request, Filter
+from django.http import HttpResponse
 
 class RepairMiddleware(object):
-    '''
 
-    '''
     def process_request(self, request):
-        # Get the url path and request params
-        url_path = request.get_full_path()
-        request_method = request.method
+        '''
+        Filter requests
+        '''
+        # Get request information
+        timestamp = str(int(time.time()))
+        full_url = str(request.get_host()) + str(request.get_full_path())
+        host = str(request.get_host())
+        url_path = str(request.get_full_path())
+        is_good = True
+        request_method = request.method # TODO Add to Request model?
         if request_method == 'GET':
             param_map = request.GET
         if request_method == 'POST':
@@ -22,32 +28,17 @@ class RepairMiddleware(object):
                 x = re.compile(regex_filter_f)
                 if url_path == url_path_f and key == field_name_f and x.search(str(value)):
                     isEvil = True
+                    return HttpResponse("Evil input received -_-")
 
-        '''
-        timestamp = str(int(time.time()))
-        full_url = str(request.get_host()) + str(request.get_full_path())
-        host = str(request.get_host())
-        url_path = str(request.get_full_path())
-        is_good = True
-        request_method = request.method
-
-        # Log GET requests
-        if request_method == 'GET':
-            param_map = request.GET
-        # Log POST requests
-        if request_method == 'POST':
-            param_map = request.POST
-
-        #save to the database
+        # If no matches, save to the database
         if len(param_map) != 0 and "delete_selected" not in str(param_map):
-            r = Request(timestamp=timestamp, full_url=full_url, host=host, url_path=url_path, is_good=is_good, request_method=request_method, param_map=param_map)
+            r = Request(timestamp=timestamp, full_url=full_url, host=host, url_path=url_path, is_good=is_good, param_map=param_map)
             r.save()
-        '''
 
         # AND/OR write to file 
         f = open('secure_app_requests.log', 'a')
-        #f.write(timestamp + ";" + full_url + ";" + host + ";" + url_path + ";" + str(is_good) + ";" + str(request_method) + ";" + str(param_map) + "\n")
-        f.write("Is request evil?: " + str(isEvil) + "\n")
+        f.write(timestamp + ";" + full_url + ";" + host + ";" + url_path + ";" + str(is_good) + ";" + str(request_method) + ";" + str(param_map) + "\n")
+        #f.write("Is request evil?: " + str(isEvil) + "\n")
         f.close()
         return
 

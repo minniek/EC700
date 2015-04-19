@@ -767,3 +767,59 @@
 	URL path: /delta3/register
 	Request method: POST
 	Request params: <QueryDict: {u'lastname': [u'Kim'], u'grad_year': [u'2015'], u'firstname': [u'M1nni3']}>
+------
+	Timestamp: 2015-04-19 04:51:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: 127.0.0.1:8000/delta3/register
+	URL path: /delta3/register
+	Request method: POST
+	Request params: <QueryDict: {u'lastname': [u'Kim'], u'grad_year': [u'2015'], u'firstname': [u'Minnie']}>
+------
+	Timestamp: 2015-04-19 04:53:09
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: 127.0.0.1:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 04:53:11
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: 127.0.0.1:8000/delta3/register.html
+	URL path: /delta3/register.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 04:53:16
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: 127.0.0.1:8000/delta3/register
+	URL path: /delta3/register
+	Request method: POST
+	Request params: <QueryDict: {u'lastname': [u'Kim'], u'grad_year': [u'21015'], u'firstname': [u'Minnie']}>
+------
+	Timestamp: 2015-04-19 04:54:46
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: 127.0.0.1:8000/delta3/register
+	URL path: /delta3/register
+	Request method: POST
+	Request params: <QueryDict: {u'lastname': [u'Kim'], u'grad_year': [u'21015'], u'firstname': [u'Minnie']}>
+------
+	Timestamp: 2015-04-19 04:54:51
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: 127.0.0.1:8000/delta3/register
+	URL path: /delta3/register
+	Request method: POST
+	Request params: <QueryDict: {u'lastname': [u'Kim'], u'grad_year': [u'2014'], u'firstname': [u'Minnie']}>
+------
+	Timestamp: 2015-04-19 04:55:09
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: 127.0.0.1:8000/delta3/register
+	URL path: /delta3/register
+	Request method: POST
+	Request params: <QueryDict: {u'lastname': [u'jkwl'], u'grad_year': [u'321'], u'firstname': [u'123']}>

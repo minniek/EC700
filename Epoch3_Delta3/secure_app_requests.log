@@ -1,1 +1,5 @@
 Is request evil?: True
+1429437189;127.0.0.1:8000/delta3/;127.0.0.1:8000;/delta3/;True;GET;<QueryDict: {}>
+1429437191;127.0.0.1:8000/delta3/register.html;127.0.0.1:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429437286;127.0.0.1:8000/delta3/register;127.0.0.1:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'Kim'], u'grad_year': [u'21015'], u'firstname': [u'Minnie']}>
+1429437291;127.0.0.1:8000/delta3/register;127.0.0.1:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'Kim'], u'grad_year': [u'2014'], u'firstname': [u'Minnie']}>

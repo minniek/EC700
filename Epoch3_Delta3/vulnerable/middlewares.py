@@ -28,7 +28,7 @@ class RepairMiddleware(object):
                 x = re.compile(regex_filter_f)
                 if url_path == url_path_f and key == field_name_f and x.search(str(value)):
                     isEvil = True
-                    return HttpResponsePermanentRedirect("/delta3/secure_app.html")
+                    return HttpResponse("Evil input detected -_-")
 
         # If no matches, save to the database
         if len(param_map) != 0 and "delete_selected" not in str(param_map):

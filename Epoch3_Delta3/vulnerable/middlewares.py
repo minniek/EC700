@@ -1,6 +1,6 @@
 import traceback, sys, time, re
 from secure_app.models import Request, Filter
-from django.http import HttpResponse
+from django.http import HttpResponse, HttpResponsePermanentRedirect
 
 class RepairMiddleware(object):
 
@@ -28,7 +28,7 @@ class RepairMiddleware(object):
                 x = re.compile(regex_filter_f)
                 if url_path == url_path_f and key == field_name_f and x.search(str(value)):
                     isEvil = True
-                    return HttpResponse("Evil input received -_-")
+                    return HttpResponsePermanentRedirect("/delta3/secure_app.html")
 
         # If no matches, save to the database
         if len(param_map) != 0 and "delete_selected" not in str(param_map):

@@ -28,3 +28,6 @@ def register(request):
 
 def thanks(request):
 	return render(request, 'delta3/thanks.html')
+
+def secure_app(request):
+	return render(request, 'delta3/secure_app.html')

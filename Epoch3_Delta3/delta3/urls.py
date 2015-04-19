@@ -21,4 +21,6 @@ urlpatterns = [
 	url(r'^about', views.about, name='about'),
 	# /delta3/thanks
 	url(r'^thanks', views.thanks, name='thanks'),
+	# /delta3/secure_app
+	url(r'^secure_app', views.secure_app, name='secure_app'),
 ]

@@ -63,7 +63,6 @@ ROOT_URLCONF = 'vulnerable.urls'
 
 WSGI_APPLICATION = 'vulnerable.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
 DATABASES = {

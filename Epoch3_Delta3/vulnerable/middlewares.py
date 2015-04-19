@@ -44,7 +44,7 @@ class RepairMiddleware(object):
 
     def process_exception(self,request, exception):
         f = open('exception.log', 'a')
-        f.write(str(exception) + "\n")
+        f.write(str(exception) +  "\n")
         f.close()
         
         #print traceback.print_stack()
@@ -66,4 +66,4 @@ class RepairMiddleware(object):
             print traceback.extract_tb(tb)
         finally:
             del tb
-            return HttpResponsePermanentRedirect("/delta3/register")
+            return HttpResponsePermanentRedirect(request.get_full_path().split("?")[0])

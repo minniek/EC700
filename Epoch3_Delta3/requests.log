@@ -2943,3 +2943,4283 @@
 	URL path: /delta3/register
 	Request method: GET
 	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:08:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:08:37
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:08:39
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:08:41
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/register
+	URL path: /delta3/register
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:09:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=cat&results=
+	URL path: /delta3/search?searchterm=cat&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:09:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:09:17
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:10:20
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:10:21
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:10:27
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=dog&results=
+	URL path: /delta3/search?searchterm=dog&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'dog'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:10:27
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:11:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:11:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:11:11
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:11:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:11:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:11:31
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:11:33
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:06
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:10
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:21
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:25
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:38
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:12:45
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:46
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:48
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:12:50
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:13:19
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:13:25
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:13:31
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:14:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:06
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:06
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:06
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:06
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:06
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:15:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=adf&results=
+	URL path: /delta3/search?searchterm=adf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'adf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:16:55
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:16:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:17:03
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:17:05
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/register
+	URL path: /delta3/register
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:17:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:17:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:18:04
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=sadfsdfsdf&results=
+	URL path: /delta3/search?searchterm=sadfsdfsdf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'sadfsdfsdf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:18:04
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/delta3/register
+	URL path: /delta3/delta3/register
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:18:12
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/delta3/register
+	URL path: /delta3/delta3/register
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:18:16
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:18:57
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:19:00
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:19:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:19:19
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:19:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:19:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:19:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:19:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=asdfasd&results=
+	URL path: /delta3/search?searchterm=asdfasd&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'asdfasd'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:19:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:25:11
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=asadfsdfas&results=
+	URL path: /delta3/search?searchterm=asadfsdfas&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'asadfsdfas'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:25:11
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:25:26
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:25:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=&results=
+	URL path: /delta3/search?searchterm=&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u''], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:25:43
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:26:46
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:26:47
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:26:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:26:51
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:28:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:29:47
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:29:47
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:29:48
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:29:50
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:29:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=asdfasdf&results=
+	URL path: /delta3/search?searchterm=asdfasdf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'asdfasdf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:29:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:30:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=asda&results=
+	URL path: /delta3/search?searchterm=asda&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'asda'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:30:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:30:10
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:30:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:30:18
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:33:18
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:33:18
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:33:24
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:33:27
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:33:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:35:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/
+	URL path: /admin/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:16
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/
+	URL path: /admin/delta3/gif/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:16
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:19
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/5/
+	URL path: /admin/delta3/gif/5/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:19
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/
+	URL path: /admin/delta3/gif/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:24
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/1/
+	URL path: /admin/delta3/gif/1/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:24
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/add/
+	URL path: /admin/delta3/gif/add/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:43
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/add/
+	URL path: /admin/delta3/gif/add/
+	Request method: POST
+	Request params: <QueryDict: {u'gif_name': [u'cat'], u'csrfmiddlewaretoken': [u'PiP0T44u4JFbgJxZVrBhDc0nc36IPXI6'], u'gif_url': [u'http://i.imgur.com/aTflvMg.gif'], u'_save': [u'Save']}>
+------
+	Timestamp: 2015-04-19 16:35:43
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/
+	URL path: /admin/delta3/gif/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:44
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:51
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:35:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=cat&results=
+	URL path: /delta3/search?searchterm=cat&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:35:59
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:36:03
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=dog&results=
+	URL path: /delta3/search?searchterm=dog&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'dog'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:36:16
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:36:20
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:36:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:36:26
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=asdfasdf&results=
+	URL path: /delta3/search?searchterm=asdfasdf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'asdfasdf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:36:26
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:37:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=%27+OR+1%3D1%3B%23&results=
+	URL path: /delta3/search?searchterm=%27+OR+1%3D1%3B%23&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u"' OR 1=1;#"], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:37:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:38:27
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:38:27
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:38:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=asasdfs&results=
+	URL path: /delta3/search?searchterm=asasdfs&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'asasdfs'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:38:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:38:39
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:39:04
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=cat&results=
+	URL path: /delta3/search?searchterm=cat&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:39:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=dog&results=
+	URL path: /delta3/search?searchterm=dog&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'dog'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:39:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=%27+OR+1%3D%3D1%3B%23&results=
+	URL path: /delta3/search?searchterm=%27+OR+1%3D%3D1%3B%23&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u"' OR 1==1;#"], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:39:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:43:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:43:50
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:43:52
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=cat&results=
+	URL path: /delta3/search?searchterm=cat&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:43:52
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:43:57
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=dog&results=
+	URL path: /delta3/search?searchterm=dog&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'dog'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:43:57
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:44:00
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=hamster&results=
+	URL path: /delta3/search?searchterm=hamster&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:44:00
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:51:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:51:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:51:39
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:53:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:53:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:53:33
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:54:04
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:54:05
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:54:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:54:55
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:54:55
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:54:57
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:55:38
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:55:38
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:55:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:55:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=sadf&results=
+	URL path: /delta3/search?searchterm=sadf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'sadf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:55:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:12
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=asdf&results=
+	URL path: /delta3/search?searchterm=asdf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'asdf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:56:12
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/
+	URL path: /admin/delta3/gif/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:48
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:50
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:52
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:56:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:58:38
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:58:38
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:58:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:10
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:13
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:13
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:32
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:32
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:33
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:37
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=cats&results=
+	URL path: /delta3/search?searchterm=cats&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'cats'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 16:59:37
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:40
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:43
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 16:59:47
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:00:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=dg&results=
+	URL path: /delta3/search?searchterm=dg&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'dg'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:00:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:01:21
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:01:21
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:01:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:01:26
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:01:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:01:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:01:57
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:01:59
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:18
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:21
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:42
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/
+	URL path: /admin/delta3/gif/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:43
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:45
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/6/
+	URL path: /admin/delta3/gif/6/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:46
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/5/
+	URL path: /admin/delta3/gif/5/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:02:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:03:11
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=aaaaaaaaaaaaaaaaaa&results=
+	URL path: /delta3/search?searchterm=aaaaaaaaaaaaaaaaaa&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'aaaaaaaaaaaaaaaaaa'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:04:01
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=aaaaaaaaaaaaaaaaaa&results=
+	URL path: /delta3/search?searchterm=aaaaaaaaaaaaaaaaaa&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'aaaaaaaaaaaaaaaaaa'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:04:02
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:04:12
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:04:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:04:17
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=aaaaaaaaaaaaa&results=
+	URL path: /delta3/search?searchterm=aaaaaaaaaaaaa&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'aaaaaaaaaaaaa'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:05:05
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=aaaaaaaaaaaaa&results=
+	URL path: /delta3/search?searchterm=aaaaaaaaaaaaa&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'aaaaaaaaaaaaa'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:05:05
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:05:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:05:09
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:05:11
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:05:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=aasdf&results=
+	URL path: /delta3/search?searchterm=aasdf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'aasdf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:05:52
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:05:55
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:05:58
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=a&results=
+	URL path: /delta3/search?searchterm=a&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'a'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:07:41
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:07:58
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:07:58
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:08:18
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:08:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:08:24
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:08:47
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:08:48
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:08:50
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:08:51
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:09:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:09:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:09:51
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:09:52
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:09:57
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/
+	URL path: /delta3/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:09:59
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:10:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:10:50
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:11:16
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:11:17
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:11:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:11:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:12:00
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:12:01
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:13:09
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:13:10
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:13:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:13:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:13:41
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:13:41
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:13:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search.html
+	URL path: /delta3/search.html
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:13:57
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:00
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=dd&results=
+	URL path: /delta3/search?searchterm=dd&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'dd'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:14:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/5/
+	URL path: /admin/delta3/gif/5/
+	Request method: POST
+	Request params: <QueryDict: {u'gif_name': [u'dog'], u'csrfmiddlewaretoken': [u'PiP0T44u4JFbgJxZVrBhDc0nc36IPXI6'], u'gif_url': [u'http://i.imgur.com/R9ovCJh.gif'], u'_continue': [u'Save and continue editing']}>
+------
+	Timestamp: 2015-04-19 17:14:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/5/
+	URL path: /admin/delta3/gif/5/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:18
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/5/history/
+	URL path: /admin/delta3/gif/5/history/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:21
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/
+	URL path: /admin/delta3/gif/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:21
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/1/
+	URL path: /admin/delta3/gif/1/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:25
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/1/
+	URL path: /admin/delta3/gif/1/
+	Request method: POST
+	Request params: <QueryDict: {u'gif_name': [u'hamster'], u'csrfmiddlewaretoken': [u'PiP0T44u4JFbgJxZVrBhDc0nc36IPXI6'], u'gif_url': [u'http://i.imgur.com/Jq0nVPc.gifv'], u'_save': [u'Save']}>
+------
+	Timestamp: 2015-04-19 17:14:25
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/
+	URL path: /admin/delta3/gif/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:25
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:27
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/6/
+	URL path: /admin/delta3/gif/6/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/6/
+	URL path: /admin/delta3/gif/6/
+	Request method: POST
+	Request params: <QueryDict: {u'gif_name': [u'cat'], u'csrfmiddlewaretoken': [u'PiP0T44u4JFbgJxZVrBhDc0nc36IPXI6'], u'gif_url': [u'http://i.imgur.com/aTflvMg.gif'], u'_save': [u'Save']}>
+------
+	Timestamp: 2015-04-19 17:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/gif/
+	URL path: /admin/delta3/gif/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:32
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:14:58
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:15:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:15:17
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:15:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search?searchterm=asasasasasdf&results=
+	URL path: /delta3/search?searchterm=asasasasasdf&results=
+	Request method: GET
+	Request params: <QueryDict: {u'searchterm': [u'asasasasasdf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:15:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:15:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:15:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:17:19
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:19:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:19:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:19:10
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:19:12
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:19:19
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'dog'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:19:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:19:26
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'hamster'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:19:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:19:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;#'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:20:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:20:38
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:22:12
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:22:12
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:22:17
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:22:32
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:22:35
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'asdf'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:22:38
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:23:03
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:23:03
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:23:05
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:23:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:23:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;#'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:23:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;--'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:23:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:23:41
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'ASDFSADF'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:23:48
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:23:55
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:23:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:24:00
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'dog'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:24:01
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:24:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;--'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:26:29
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:26:37
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;#'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:26:54
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:27:01
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;#'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:27:01
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:28:44
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/
+	URL path: /admin/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:28:47
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/user/
+	URL path: /admin/delta3/user/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:28:47
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:28:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/user/add/
+	URL path: /admin/delta3/user/add/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:28:50
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:28:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/user/add/
+	URL path: /admin/delta3/user/add/
+	Request method: POST
+	Request params: <QueryDict: {u'username': [u'delta3'], u'csrfmiddlewaretoken': [u'PiP0T44u4JFbgJxZVrBhDc0nc36IPXI6'], u'password': [u'password'], u'_addanother': [u'Save and add another']}>
+------
+	Timestamp: 2015-04-19 17:28:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/user/add/
+	URL path: /admin/delta3/user/add/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:28:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:29:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/user/add/
+	URL path: /admin/delta3/user/add/
+	Request method: POST
+	Request params: <QueryDict: {u'username': [u'alpha3'], u'csrfmiddlewaretoken': [u'PiP0T44u4JFbgJxZVrBhDc0nc36IPXI6'], u'password': [u'alpha'], u'_save': [u'Save']}>
+------
+	Timestamp: 2015-04-19 17:29:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/delta3/user/
+	URL path: /admin/delta3/user/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:29:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/jsi18n/
+	URL path: /admin/jsi18n/
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:30:51
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;--'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:30:51
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:30:58
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:30:58
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:31:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:31:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:31:09
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:31:10
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:34:10
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:34:10
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:34:19
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:34:20
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:34:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:34:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:34:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:34:34
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:34:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:34:36
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:35:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:35:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:35:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:35:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:36:55
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:36:56
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:36:58
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:37:26
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:37:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:37:28
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:37:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:37:49
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:37:51
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:38:43
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:38:43
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:38:44
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:38:46
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:38:46
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:41:20
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:41:20
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:41:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:41:22
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:44:11
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:44:12
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:44:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:44:14
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:44:39
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:44:39
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:44:41
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:44:41
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:49:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:49:23
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:49:25
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:50:01
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:50:04
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:51:00
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:51:03
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:51:03
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:51:08
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;--'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:51:11
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:51:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'"; SELECT * from delta3_user;--'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:51:30
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:52:24
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:52:24
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:52:26
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'df'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:52:26
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:52:32
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'dog'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:52:32
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:52:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:52:53
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/favicon.ico
+	URL path: /favicon.ico
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:52:55
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:52:57
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:53:05
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;--'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:53:07
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:53:18
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/login
+	URL path: /delta3/login
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:53:38
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: POST
+	Request params: <QueryDict: {u'searchterm': [u'" OR 1=1;--'], u'results': [u'']}>
+------
+	Timestamp: 2015-04-19 17:53:43
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/delta3/search
+	URL path: /delta3/search
+	Request method: GET
+	Request params: <QueryDict: {}>
+------
+	Timestamp: 2015-04-19 17:54:13
+	Remote IP: 127.0.0.1
+	Remote Hostname: 
+	Full URL: localhost:8000/admin/logout/
+	URL path: /admin/logout/
+	Request method: GET
+	Request params: <QueryDict: {}>

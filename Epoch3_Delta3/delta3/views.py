@@ -3,6 +3,7 @@ from forms import *
 from django.forms.formsets import formset_factory
 from delta3.models import Gif
 from django.http import HttpResponse, HttpResponsePermanentRedirect
+from django.db import connection
 
 def home(request):
 	return render(request, 'delta3/home.html')
@@ -20,13 +21,16 @@ def comments(request):
 	return render(request, 'delta3/comments.html', {'form': CommentsForm})
 
 def search(request):
-	if (request.REQUEST.get('searchterm')):
-		g = Gif.objects.get(gif_name=request.REQUEST.get('searchterm'))
+	if(request.REQUEST.get('searchterm')):
+		searchterm = str(request.REQUEST.get('searchterm'))
+		sql = 'SELECT * from delta3_gif where gif_name=' + '"' + searchterm + '"' 
+		g = Gif.objects.raw(sql)
+		# g = Gif.objects.raw('SELECT * from delta3_gif where gif_name=""; SELECT * from delta3_user')
 		if (g):
-			# return HttpResponse(g.gif_url)
-			return HttpResponsePermanentRedirect("/delta3/search")
-		else:
-			return HttpResponsePermanentRedirect("/delta3/search")
+			response = ""
+			for x in g:	
+				response = response + str(x) + "<br>"
+			return HttpResponse(response)
 	return render(request, 'delta3/search.html', {'form': SearchForm})
 
 def about(request):

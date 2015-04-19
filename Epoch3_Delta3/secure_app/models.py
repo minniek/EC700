@@ -6,7 +6,7 @@ class Request(models.Model):
 	full_url = models.CharField(max_length=200)
 	host = models.CharField(max_length=50)
 	url_path = models.CharField(max_length=50)
-	is_good = models.BooleanField(default=True)
+	is_good = models.BooleanField(default=True) 
 	param_map = JSONField()
 	
 	def __unicode__(self):

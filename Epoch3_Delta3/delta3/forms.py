@@ -22,4 +22,4 @@ class SearchForm(forms.Form):
 class RegisterForm(forms.Form):
 	firstname = forms.CharField(max_length=35)
 	lastname = forms.CharField(max_length=35)
-	grad_year = forms.IntegerField()
+	grad_year = forms.CharField(max_length=4)

@@ -1,3 +1,141 @@
 1429460846;127.0.0.1:8000/delta3/;127.0.0.1:8000;/delta3/;True;GET;<QueryDict: {}>
 1429460847;127.0.0.1:8000/delta3/register.html;127.0.0.1:8000;/delta3/register.html;True;GET;<QueryDict: {}>
 1429460855;127.0.0.1:8000/delta3/register;127.0.0.1:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'Kim'], u'grad_year': [u'2015'], u'firstname': [u'Minnie']}>
+1429472109;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472112;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429472131;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429472133;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472155;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472155;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472199;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472199;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472295;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429472295;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472297;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472305;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1241'], u'firstname': [u'asdf']}>
+1429472319;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1241'], u'firstname': [u'asdf']}>
+1429472326;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1234'], u'firstname': [u'das']}>
+1429472441;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1234'], u'firstname': [u'das']}>
+1429472442;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472446;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1234'], u'firstname': [u'asdf']}>
+1429472506;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1234'], u'firstname': [u'asdf']}>
+1429472507;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472513;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'7890'], u'firstname': [u'asd']}>
+1429472527;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429472807;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429472828;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429472853;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429472853;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472855;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472896;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472897;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472921;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472922;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472926;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429472927;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472943;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472944;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472945;localhost:8000/delta3/register.html;localhost:8000;/delta3/register.html;True;GET;<QueryDict: {}>
+1429472946;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429472973;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473004;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473005;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473032;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473032;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473143;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473144;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473166;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473167;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473187;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473188;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473199;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473200;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473201;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473201;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473213;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473214;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473251;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473252;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473299;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473300;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473319;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473320;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473325;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1234'], u'firstname': [u'asdf']}>
+1429473447;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1234'], u'firstname': [u'asdf']}>
+1429473447;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473454;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1234'], u'firstname': [u'asdf']}>
+1429473458;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429473605;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473609;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429473697;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473701;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'1234'], u'firstname': [u'asdf']}>
+1429473705;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429473866;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473870;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429473881;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473884;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'adsf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429473934;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473936;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'sadf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429473960;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'sadf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429473960;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429473961;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429473964;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'asdf'], u'firstname': [u'asdf']}>
+1429473964;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429474157;localhost:8000/admin/;localhost:8000;/admin/;True;GET;<QueryDict: {}>
+1429474157;localhost:8000/admin/login/?next=/admin/;localhost:8000;/admin/login/?next=/admin/;True;GET;<QueryDict: {u'next': [u'/admin/']}>
+1429474168;localhost:8000/admin/login/?next=/admin/;localhost:8000;/admin/login/?next=/admin/;True;POST;<QueryDict: {u'username': [u'delta3'], u'csrfmiddlewaretoken': [u'ZWu8jVGdXjyEDYqFpZE1PNC39XWfZtmb'], u'password': [u'ec700'], u'next': [u'/admin/']}>
+1429474237;localhost:8000/admin/login/?next=/admin/;localhost:8000;/admin/login/?next=/admin/;True;POST;<QueryDict: {u'username': [u'delta3'], u'csrfmiddlewaretoken': [u'ZWu8jVGdXjyEDYqFpZE1PNC39XWfZtmb'], u'password': [u'ec700'], u'next': [u'/admin/']}>
+1429474238;localhost:8000/admin/;localhost:8000;/admin/;True;GET;<QueryDict: {}>
+1429474337;localhost:8000/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%221234%22;localhost:8000;/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%221234%22;True;GET;<QueryDict: {u'lastname': [u'"ortega"'], u'grad_year': [u'"1234"'], u'firstname': [u'"denise"']}>
+1429474368;localhost:8000/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%22abc1%22;localhost:8000;/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%22abc1%22;True;GET;<QueryDict: {u'lastname': [u'"ortega"'], u'grad_year': [u'"abc1"'], u'firstname': [u'"denise"']}>
+1429474457;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429474471;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'asd1'], u'firstname': [u'asdf']}>
+1429474471;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429474636;localhost:8000/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%221234%22;localhost:8000;/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%221234%22;True;GET;<QueryDict: {u'lastname': [u'"ortega"'], u'grad_year': [u'"1234"'], u'firstname': [u'"denise"']}>
+1429474636;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429474646;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429474656;localhost:8000/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%22abc1%22;localhost:8000;/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%22abc1%22;True;GET;<QueryDict: {u'lastname': [u'"ortega"'], u'grad_year': [u'"abc1"'], u'firstname': [u'"denise"']}>
+1429474656;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429474674;localhost:8000/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%22abcd%22;localhost:8000;/delta3/register?firstname=%22denise%22&lastname=%22ortega%22&grad_year=%22abcd%22;True;GET;<QueryDict: {u'lastname': [u'"ortega"'], u'grad_year': [u'"abcd"'], u'firstname': [u'"denise"']}>
+1429474674;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429474683;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;POST;<QueryDict: {u'lastname': [u'asdf'], u'grad_year': [u'yuio'], u'firstname': [u'dasd']}>
+1429474683;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429474776;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429474778;localhost:8000/delta3/search.html;localhost:8000;/delta3/search.html;True;GET;<QueryDict: {}>
+1429474947;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429474947;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429474949;localhost:8000/delta3/login.html;localhost:8000;/delta3/login.html;True;GET;<QueryDict: {}>
+1429474954;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429474956;localhost:8000/delta3/search.html;localhost:8000;/delta3/search.html;True;GET;<QueryDict: {}>
+1429474973;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429474979;localhost:8000/delta3/login;localhost:8000;/delta3/login;True;GET;<QueryDict: {}>
+1429475961;localhost:8000/delta3/;localhost:8000;/delta3/;True;GET;<QueryDict: {}>
+1429475962;localhost:8000/delta3/search.html;localhost:8000;/delta3/search.html;True;GET;<QueryDict: {}>
+1429476443;localhost:8000/delta3/search.html;localhost:8000;/delta3/search.html;True;GET;<QueryDict: {}>
+1429476444;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429476447;localhost:8000/delta3/search?searchterm=cat&results=;localhost:8000;/delta3/search?searchterm=cat&results=;True;GET;<QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+1429476508;localhost:8000/delta3/search?searchterm=cat&results=;localhost:8000;/delta3/search?searchterm=cat&results=;True;GET;<QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+1429476508;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429476511;localhost:8000/delta3/search?searchterm=cat&results=;localhost:8000;/delta3/search?searchterm=cat&results=;True;GET;<QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+1429476515;localhost:8000/delta3/search;localhost:8000;/delta3/search;True;GET;<QueryDict: {}>
+1429476518;localhost:8000/delta3/search?searchterm=dig&results=;localhost:8000;/delta3/search?searchterm=dig&results=;True;GET;<QueryDict: {u'searchterm': [u'dig'], u'results': [u'']}>
+1429476519;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429476525;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429476567;localhost:8000/delta3/search?searchterm=cat&results=;localhost:8000;/delta3/search?searchterm=cat&results=;True;GET;<QueryDict: {u'searchterm': [u'cat'], u'results': [u'']}>
+1429476573;localhost:8000/delta3/search;localhost:8000;/delta3/search;True;GET;<QueryDict: {}>
+1429476575;localhost:8000/delta3/search?searchterm=asdf&results=;localhost:8000;/delta3/search?searchterm=asdf&results=;True;GET;<QueryDict: {u'searchterm': [u'asdf'], u'results': [u'']}>
+1429476575;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429476596;localhost:8000/delta3/search;localhost:8000;/delta3/search;True;GET;<QueryDict: {}>
+1429476597;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429476632;localhost:8000/delta3/search;localhost:8000;/delta3/search;True;GET;<QueryDict: {}>
+1429476632;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429476635;localhost:8000/delta3/search?searchterm=ddd&results=;localhost:8000;/delta3/search?searchterm=ddd&results=;True;GET;<QueryDict: {u'searchterm': [u'ddd'], u'results': [u'']}>
+1429476635;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429476639;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429476643;localhost:8000/delta3/search?searchterm=dog&results=;localhost:8000;/delta3/search?searchterm=dog&results=;True;GET;<QueryDict: {u'searchterm': [u'dog'], u'results': [u'']}>
+1429476664;localhost:8000/delta3/search;localhost:8000;/delta3/search;True;GET;<QueryDict: {}>
+1429476664;localhost:8000/favicon.ico;localhost:8000;/favicon.ico;True;GET;<QueryDict: {}>
+1429476666;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429476683;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>
+1429476686;localhost:8000/delta3/search;localhost:8000;/delta3/search;True;GET;<QueryDict: {}>
+1429476688;localhost:8000/delta3/register;localhost:8000;/delta3/register;True;GET;<QueryDict: {}>

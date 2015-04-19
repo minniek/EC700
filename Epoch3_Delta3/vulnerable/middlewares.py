@@ -43,6 +43,10 @@ class RepairMiddleware(object):
         return
 
     def process_exception(self,request, exception):
+        f = open('exception.log', 'a')
+        f.write(str(exception) + "\n")
+        f.close()
+        
         #print traceback.print_stack()
 
         # From interpretter get name that caused exception
@@ -62,3 +66,4 @@ class RepairMiddleware(object):
             print traceback.extract_tb(tb)
         finally:
             del tb
+            return HttpResponsePermanentRedirect("/delta3/register")

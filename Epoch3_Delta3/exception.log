@@ -1,1 +1,5 @@
 Integer detected in firstname
+local variable 'url' referenced before assignment
+local variable 'url' referenced before assignment
+local variable 'url' referenced before assignment
+no such column: name
